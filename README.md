@@ -1,2 +1,4 @@
-# 2048pro
-A game based on the 2048 made by pygame. Hope you like it/
+# 2048_pro
+A game made by Python Pygame. Hope you like it
+
+Remember to install pygame by entering the following code:
